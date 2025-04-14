@@ -320,3 +320,9 @@
 .footer-label {
 	font-weight: bold;
 }
+.customer {
+	line-height: 1.5;
+	width: 50%;
+	text-align: left;
+	padding-left: 35px;
+}
